@@ -1,0 +1,73 @@
+.bg-light {
+    background-color: #FC4445 !important
+
+}
+body {
+    background-color: #3FEEE6
+}
+.navbar-light .navbar-brand {
+    color: #3FEEE6;
+    font-weight: bolder;
+    letter-spacing: 5px
+
+}
+.jumbotron{
+    background-color: #3FEEE6;
+    background-image: url( https://i.ytimg.com/vi/3GLPjp_A1tE/maxresdefault.jpg);
+    height: 95vh;
+    background-size: cover;
+}
+article p {
+    width: 30%;
+    float: left;
+    margin: 0 1.66% 30px;
+    text-align: center
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 20px;
+    color: #0c4772
+}
+
+.card{
+    height: 350px;
+    text-align: left;
+    border: 3px solid #97caef;
+    margin: 20px 20px;
+  display: inline-block;
+   width: 29%;
+   margin: 0 1.66% 30px
+    
+}
+.card-body{
+    padding: 0 auto;
+    background-color:#97caef ;
+    
+}
+#cards{
+    align-content: center;
+    justify-content: center;
+    display: block;
+}
+
+footer{
+    height: 250px;
+    background: #0c4772;
+    display: block;
+    color: aliceblue;
+    
+}
+footer ul{
+    list-style: none;
+
+   
+}
+
+footer p {
+    text-align: center;
+}
+footer li{
+    line-height: 40px;
+    font-size: 20px
+}
